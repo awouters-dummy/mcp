@@ -1,5 +1,6 @@
 # AWS API MCP Server
 
+bump
 
 ## Overview
 The AWS API MCP Server enables AI assistants to interact with AWS services and resources through AWS CLI commands. It provides programmatic access to manage your AWS infrastructure while maintaining proper security controls.
